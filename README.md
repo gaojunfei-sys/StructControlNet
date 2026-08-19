@@ -3,6 +3,11 @@
 This repository contains the RPLAN heatmap, ControlNet training, layout
 generation, and evaluation scripts.
 
+## Open resources
+
+- Base model: [Stable Diffusion v1.5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)
+- Dataset: [RPLAN dataset](https://zenodo.org/records/18874946)
+
 ## Script pipeline
 
 1. `reconstruct_heatmaps.py` reconstructs training heatmaps from layout images.
